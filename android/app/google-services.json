@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "795265236796",
+    "firebase_url": "https://dina-fb-default-rtdb.firebaseio.com",
+    "project_id": "dina-fb",
+    "storage_bucket": "dina-fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795265236796:android:e76a256be2cdbd4840e839",
+        "android_client_info": {
+          "package_name": "com.example.dina_fb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNf3pbzLfAMkR8eKVrX_7_TQG2N56BTwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
